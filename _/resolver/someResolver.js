@@ -41,9 +41,9 @@ function resolve(request, response) {
     return __awaiter(this, void 0, void 0, function () {
         return __generator(this, function (_a) {
             response.json({
-                name: "2go-backend",
+                name: "meg-backend",
                 version: "0.0.1",
-                description: "2GO app's backend",
+                description: "meg app's backend",
             });
             return [2 /*return*/];
         });
