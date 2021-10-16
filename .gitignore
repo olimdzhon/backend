@@ -1,9 +1,5 @@
 .vscode/
 .idea/
-_/
-.jest
-.wallet
-.env
 node_modules/
 npm-debug.log
 lerna-debug.log
