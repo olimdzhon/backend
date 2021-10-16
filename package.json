@@ -7,11 +7,17 @@
     "dev": "nodemon src/index.ts",
     "watch": "tsc -b -w"
   },
+  "dependencies": {
+    "express": "^4.9.8"
+  },
   "devDependencies": {
     "@types/express": "^4.17.11",
     "@types/node": "^15.0.2",
     "nodemon": "^2.0.7",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
